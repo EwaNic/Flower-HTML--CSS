@@ -115,3 +115,15 @@ html {
     transform-origin: top;
     z-index: -1;
 }
+
+.leaf {
+    position: absolute;
+    left: 52%;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: rgb(149, 235, 92);
+    border-radius: 300px 0;
+
+}
